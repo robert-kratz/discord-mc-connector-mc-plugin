@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="discordverify">
+    <output-path>E:/bungeecord/servers/discordverify/plugins</output-path>
+    <root id="archive" name="discordverify.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="discord-mc-connector-mc-plugin" />
+      <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:17.0" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.2.4" />
+      <element id="library" level="project" name="Maven: org.avaje:ebean:2.8.1" />
+      <element id="library" level="project" name="Maven: javax.persistence:persistence-api:1.0" />
+      <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.15" />
+      <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.24" />
+      <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+      <element id="library" level="project" name="spigot" />
+    </root>
+  </artifact>
+</component>

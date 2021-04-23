@@ -1,0 +1,8 @@
+name: discordconnector
+author: salty
+main: us.rjks.discord.Main
+version: 1.0.0
+api-version: 1.16
+commands:
+  verify:
+  unverify:
